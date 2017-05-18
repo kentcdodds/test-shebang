@@ -1,0 +1,3 @@
+root: true
+plugins: [node]
+rules: { node/shebang: error }
